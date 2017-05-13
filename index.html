@@ -1,13 +1,14 @@
-<html>
-  <head>
-    <style>
-      body {
-        background-image: url('images/bg.png');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-position: center;
-      }
-    </style>
-</head>
+---
+bg: "exleon.png"
+layout: default
+crawlertitle: "Exleon"
+title: "Exleon"
+summary: "Aurora Revenge"
+---
 
-</html>
+{% for post in site.posts limit: 5 %}
+  <article class="index-page">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+  </article>
+{% endfor %}

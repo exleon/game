@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/game/</link>
     <atom:link href="http://localhost:4000/game/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Jun 2017 04:50:18 +0100</pubDate>
-    <lastBuildDate>Fri, 02 Jun 2017 04:50:18 +0100</lastBuildDate>
+    <pubDate>Fri, 02 Jun 2017 05:00:40 +0100</pubDate>
+    <lastBuildDate>Fri, 02 Jun 2017 05:00:40 +0100</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -91,7 +91,12 @@ It’s always nice to see people playing your game with a smile! We met some ver
 
 &lt;p&gt;Thank you all, guys!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/game/assets/images/fgw_2016/IMG_20160604_101338.jpg?raw=true&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/game/assets/images/fgw_2016/IMG_20160604_101338.jpg?raw=true&quot; alt=&quot;alt text&quot; /&gt;
+&lt;img src=&quot;/game/assets/images/fgw_2016/IMG_20160604_113721.jpg?raw=true&quot; alt=&quot;alt text&quot; /&gt;
+&lt;img src=&quot;/game/assets/images/fgw_2016/IMG_20160604_115615.jpg?raw=true&quot; alt=&quot;alt text&quot; /&gt;
+&lt;img src=&quot;/game/assets/images/fgw_2016/IMG_20160604_120713.jpg?raw=true&quot; alt=&quot;alt text&quot; /&gt;
+&lt;img src=&quot;/game/assets/images/fgw_2016/IMG_20160604_131448.jpg?raw=true&quot; alt=&quot;alt text&quot; /&gt;
+&lt;img src=&quot;/game/assets/images/fgw_2016/IMG-bigodinho.jpg?raw=true&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
@@ -116,12 +121,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
         <guid isPermaLink="true">http://localhost:4000/game/posts/fatec-game-week/</guid>
         
         <category>Exleon</category>
-        
-        <category>fatec</category>
-        
-        <category>game</category>
-        
-        <category>week</category>
         
         
         <category>posts</category>

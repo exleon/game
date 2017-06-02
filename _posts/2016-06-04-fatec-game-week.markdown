@@ -5,7 +5,7 @@ crawlertitle: "Exleon was at Fatec Game Week 2016!"
 summary: "Exleon was at Fatec Game Week 2016!"
 date:   2016-06-04 23:00:00 +0700
 categories: posts
-tags: 'Exleon fatec game week'
+tags: 'Exleon'
 author: cassio_kenji
 ---
 Exleon team was at Fatec Game Week 2016 showing some hard knock cinematic platforming!
@@ -14,6 +14,11 @@ It's always nice to see people playing your game with a smile! We met some very 
 Thank you all, guys!
 
 ![alt text]({{ site.baseurl }}/assets/images/fgw_2016/IMG_20160604_101338.jpg?raw=true)
+![alt text]({{ site.baseurl }}/assets/images/fgw_2016/IMG_20160604_113721.jpg?raw=true)
+![alt text]({{ site.baseurl }}/assets/images/fgw_2016/IMG_20160604_115615.jpg?raw=true)
+![alt text]({{ site.baseurl }}/assets/images/fgw_2016/IMG_20160604_120713.jpg?raw=true)
+![alt text]({{ site.baseurl }}/assets/images/fgw_2016/IMG_20160604_131448.jpg?raw=true)
+![alt text]({{ site.baseurl }}/assets/images/fgw_2016/IMG-bigodinho.jpg?raw=true) 
 
 <!-- To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 

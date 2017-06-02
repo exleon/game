@@ -42,4 +42,4 @@ sass:
   style: compressed
 
 
-images: 'game/assets/images'
+images: '/game/assets/images'

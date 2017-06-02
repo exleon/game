@@ -11,7 +11,7 @@ author: cassio_kenji
 Support us on Greenlight
 [https://steamcommunity.com/sharedfiles/filedetails/?id=913384579 ](https://steamcommunity.com/sharedfiles/filedetails/?id=913384579)
 
-![alt text](/assets/images/greenlight.jpg?raw=true)
+![alt text]({{ site.baseurl }}/assets/images/greenlight.jpg?raw=true)
 
 <!-- To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 

@@ -10,7 +10,7 @@ author: cassio_kenji
 ---
 Check out some new concept art made for Exleon!
 
-![alt text](/assets/images/main_char_concept_01.jpg?raw=true)
+![alt text]({{ site.baseurl }}/assets/images/main_char_concept_01.jpg?raw=true)
 
 Support us on Greenlight :)
 [https://steamcommunity.com/sharedfiles/filedetails/?id=913384579 ](https://steamcommunity.com/sharedfiles/filedetails/?id=913384579)

@@ -6,15 +6,15 @@
 </description>
     <link>http://localhost:4000/game/</link>
     <atom:link href="http://localhost:4000/game/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Jun 2017 04:04:15 +0100</pubDate>
-    <lastBuildDate>Fri, 02 Jun 2017 04:04:15 +0100</lastBuildDate>
+    <pubDate>Fri, 02 Jun 2017 04:29:35 +0100</pubDate>
+    <lastBuildDate>Fri, 02 Jun 2017 04:29:35 +0100</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>New concepts!</title>
         <description>&lt;p&gt;Check out some new concept art made for Exleon!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/main_char_concept_01.jpg?raw=true&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/game/assets/images/main_char_concept_01.jpg?raw=true&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Support us on Greenlight :)
 &lt;a href=&quot;https://steamcommunity.com/sharedfiles/filedetails/?id=913384579&quot;&gt;https://steamcommunity.com/sharedfiles/filedetails/?id=913384579 &lt;/a&gt;&lt;/p&gt;
@@ -53,7 +53,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
         <description>&lt;p&gt;Support us on Greenlight
 &lt;a href=&quot;https://steamcommunity.com/sharedfiles/filedetails/?id=913384579&quot;&gt;https://steamcommunity.com/sharedfiles/filedetails/?id=913384579 &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/greenlight.jpg?raw=true&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/game/assets/images/greenlight.jpg?raw=true&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 

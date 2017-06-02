@@ -4,10 +4,10 @@
     <title>Exleon</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Jun 2017 03:52:52 +0100</pubDate>
-    <lastBuildDate>Fri, 02 Jun 2017 03:52:52 +0100</lastBuildDate>
+    <link>http://localhost:4000/game/</link>
+    <atom:link href="http://localhost:4000/game/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 02 Jun 2017 04:04:15 +0100</pubDate>
+    <lastBuildDate>Fri, 02 Jun 2017 04:04:15 +0100</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -38,8 +38,8 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/ --&gt;
 </description>
         <pubDate>Thu, 01 Jun 2017 17:00:00 +0100</pubDate>
-        <link>http://localhost:4000/posts/new-concepts/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/new-concepts/</guid>
+        <link>http://localhost:4000/game/posts/new-concepts/</link>
+        <guid isPermaLink="true">http://localhost:4000/game/posts/new-concepts/</guid>
         
         <category>Exleon</category>
         
@@ -74,8 +74,8 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/ --&gt;
 </description>
         <pubDate>Wed, 26 Apr 2017 17:00:00 +0100</pubDate>
-        <link>http://localhost:4000/posts/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/game/posts/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/game/posts/welcome-to-jekyll/</guid>
         
         <category>Exleon</category>
         

@@ -3,12 +3,15 @@ layout: post
 title:  "Exleon is on Greenlight!"
 crawlertitle: "Exleon is on Greenlight"
 summary: "Exleon is on Greenlight"
-date:   2016-04-26 23:00:00 +0700
+date:   2017-04-26 23:00:00 +0700
 categories: posts
 tags: 'Exleon'
 author: cassio_kenji
 ---
-https://steamcommunity.com/sharedfiles/filedetails/?id=913384579
+Support us on Greenlight
+[https://steamcommunity.com/sharedfiles/filedetails/?id=913384579 ](https://steamcommunity.com/sharedfiles/filedetails/?id=913384579)
+
+![alt text](/assets/images/greenlight.jpg?raw=true)
 
 <!-- To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
